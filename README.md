@@ -40,6 +40,8 @@ A aplicação segue uma arquitetura de camadas simples:
 https://www.postman.com/descent-module-operator-37573572/workspace/publicspace/collection/36580463-b6a470a2-74d0-4d48-83af-3c74d54fcbc2?action=share&creator=36580463
 
 
+### Diagrama Relacional
+
 ![Diagrama](https://github.com/cgabrielferreira/UserDept/assets/87282150/d35550f6-9627-4ca6-b456-aabedbccebb0)
 
 
