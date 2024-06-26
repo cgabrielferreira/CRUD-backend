@@ -14,10 +14,9 @@ Este projeto é uma prática aplicação para gerenciar usuários e departamento
 
 ### Pré-requisitos
 
-- Java 8 ou superior
+- Java 17
 - Spring Boot
 - Banco de dados compatível com JPA (por exemplo, MySQL, PostgreSQL)
-- Docker (não utilizado)
 
 ### Arquitetura
 
