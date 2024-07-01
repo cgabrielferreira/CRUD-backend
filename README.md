@@ -26,6 +26,13 @@ A aplicação segue uma arquitetura de camadas simples:
 - **Service**: Implementa a lógica de negócios.
 - **Repository**: Gerencia a interação com o banco de dados.
 
+### Testes
+
+Foram adicionados os testes unitários com os seguintes frameworks: 
+
+- **JUnit 5**
+- **Mockito**
+
 ## 3. Configuração e Variáveis de Ambiente
 
 ### Configuração do Maven
